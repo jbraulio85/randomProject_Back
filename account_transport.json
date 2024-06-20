@@ -1,0 +1,11 @@
+{
+    "service": "gmail",
+    "auth": {
+      "type": "OAuth2",
+      "user": "proyectosdevgt@gmail.com",
+      "clientId": "475536882244-pr6u15ku51bc6roa6lco2sej1qknrh7i.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04TWvlm8DR18ACgYIARAAGAQSNwF-L9IrFa4JXiBycPReYkAmf2DyzwlkxgjjMufpQkxnbgkMtmmdqwTn4CcFCvesoRau4y0iC1Y"
+    }
+  }
+  
